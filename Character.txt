@@ -1,0 +1,25 @@
+Character race: Human
+Age: 20 something
+Occupation: Tribal Gatherer
+
+Intro:
+	Always on a quest to learn more, our adventurer dreams the big dreams.
+One day, while adventuring and gathering for his tribe, he comes across some
+people gathered in a clearing standing in a circle.  They seemed to have drawn
+some sort of sybol in the ground before them. To him they are doing what looks
+like prayers. They being chanting, softly at first, then growing louder and
+louder, in a strange language. The sound is both eerie and peacful. He begins
+to notice the air around these people is starting to shimmer, then fade.
+Suppringly the apperance of the "people" is now different, their hair
+completley silver, higher cheeck bones, and pointed thin ears now replace
+their generic human apperances.
+	A wind begins to blow, isolated in the clearing, gradually picking up
+speed along with the strange chanting, and begins to take a shape in the
+center of the circle they are chanting around.  A form begins to shape from
+the dust and wind in the center and a blinding flash.  A blink of the eye
+later the chanting stops, a figure stands in the center, and the strange
+apperance of the people has returned to generic human.
+
+
+
+
