@@ -18,6 +18,11 @@ Spor
 	Class: Shaman
 	Goals: Seek out and meet other elf shamans to master his art
 
+Molli
+	Race: Elf
+	Class: Warrior
+	Goals: Help to rebuild the Dragonman village
+
 Crystal
 	Race: Troll
 	Class: Mage
@@ -31,17 +36,57 @@ Dar-ech
 Bogdon
 	Race: Dwarf
 	Class: Warrior
-	Goals: Find lost tribe of dwarves to assist their troubles
+	Goals: Find lost tribes of dwarves to assist their troubles
+
+
+Bosses:
+----------------------------------------
 
 Psilo
 	Race: Foon'gai
 	Class: Foon'gai
 	Goals: Unite all species as part of the Foon'gai
 
+---- Fags
 Glenn
 	Race: Fag
 	Class: Queen
 	Goals: Dominate humans with her gang.
+
+Bruce
+	Race: Fag
+	Class: Warrior
+	Goals: Defend the queen, Glenn
+
+Lance
+	Race: Fag
+	Class: Warrior
+	Goals: Defend the queen, Glenn
+	
+---- Wiggerhippies
+DeMichael
+	Race: Wiggerhippie
+	Class: Warrior
+	Goals: Harvest Troll hearts for potions
+	
+TreyJeffrey
+	Race: Wiggerhippie
+	Class: Shaman
+	Goals: Defend DeMichael
+	
+Earthniqua
+	Race: Wiggerhippie
+	Class: Mage
+	Goals: Defend DeMichael
+
+
+Important NPCs:
+----------------------------------------
+
+Airenn
+	Race: Dwarf
+	Class: Merchant
+	Goals: Fix the ramp to his dwarven mountain pass
 
 
 
@@ -55,11 +100,17 @@ Trip and Spor meet Crystal in New Dork.
 The party travels to the marshes to find the Fag headquarters.
 The party frees Dar-ech and he joins them.
 The party returns to New Dork to find Glenn, the Fag Queen.
-The party escapes New Dork across the northern river.
+Bogdon sees the struggle with Glenn, and helps the party flee to Dwarvton.
 Spor suggests travelling to Dragonman for assistance.
-Bogdon is found on the path to Dragonman, and joins the party.
-Trip learns of the Foon'gai while at Dragonman.
-Crystal suggests travelling to the Troll Capital.
+Bogdon escorts the party to North Raquelville to gain permission to cross the bridge.
+Bogdon points the way to the Dwarven Mountain Pass.
+The team meets Airenn, who will allow them to pass if they can find the materials to fix his ramp.
+Airenn leads the way to Dragonman.
+Trip explores Dragonman on his own and meets Molli.
+Trip learns of the Foon'gai from Molli.
+While looking for his friends, Trip learns Crystal is held captive by Wiggerhippies.
+Trip defeats DeMichael and his clan to free Crystal.
+Learning of the new Foon'gai infestation, Crystal suggests travelling to the Troll Capital for advice.
 ...
 Trip mortally wounds Psilo, stopping the immenent spread of the Foon'gai.
 Psilo infects Trip.
