@@ -88,7 +88,10 @@ Airenn
 	Class: Merchant
 	Goals: Fix the ramp to his dwarven mountain pass
 
-
+Mayorette Raquel
+	Race: Human
+	Class: Warrior
+	Goals: Grow North Raquelville and keep it safe.
 
 Events:
 ----------------------------------------
@@ -103,6 +106,8 @@ The party returns to New Dork to find Glenn, the Fag Queen.
 Bogdon sees the struggle with Glenn, and helps the party flee to Dwarvton.
 Spor suggests travelling to Dragonman for assistance.
 Bogdon escorts the party to North Raquelville to gain permission to cross the bridge.
+Mayorette Raquel asks for hemp to create a brige pass.
+Trip brings Mayorette Raquel some hemp for the bracelet.
 Bogdon points the way to the Dwarven Mountain Pass.
 The team meets Airenn, who will allow them to pass if they can find the materials to fix his ramp.
 Airenn leads the way to Dragonman.
